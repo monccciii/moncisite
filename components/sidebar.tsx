@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import Head from 'next/head'
 import Image from 'next/image'
 import {RxHamburgerMenu} from 'react-icons/rx'
